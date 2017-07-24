@@ -1,6 +1,6 @@
 Football Iterators
 =============== 
-Today we will be building a custom iterator. We are going to create a program for searching football(soccer) statistics from within a CSV(comma separated values) file. We will be using Python's builtin CSV module for handling file processing duties, documentation available here: https://docs.python.org/3/library/csv.html
+Today we will be building a custom iterator. We are going to create a program for searching football(soccer) statistics from within a CSV(comma separated values) file. We will be using Python's builtin CSV module for handling file processing duties, documentation available here: https://docs.python.org/3/library/csv.html **Note:** There is an example for basic csv reading listed under the `reader` method.
 
 Your code will reside in the `explorer.py` file, the `models.py` file is provided for you and does not need to be altered.
 
