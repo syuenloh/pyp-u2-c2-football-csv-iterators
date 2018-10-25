@@ -2,9 +2,6 @@ import csv
 
 from .models import Player
 
-
-import csv
-
 class FootballExplorer():
     def __init__(self, csv_file_name):
         self.csv_file_name = csv_file_name
